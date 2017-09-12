@@ -3,3 +3,6 @@
 
 # Local stuff
 local/*
+
+# C
+CMakeLists.txt
